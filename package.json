@@ -1,0 +1,40 @@
+{
+  "name": "react-native-custom-floating-input-label",
+  "version": "1.0.7",
+  "description": "To create a fully customised and animated floating TextInput",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "custom",
+    "floating",
+    "label",
+    "TextInput",
+    "floating text",
+    "floating input",
+    "custom floating text",
+    "react native",
+    "customised text input",
+    "react native customised floating text input",
+    "animated label",
+    "label animated text input",
+    "label text input",
+    "animated text input",
+    "floating text label",
+    "floating text label input",
+    "react-native",
+    "android",
+    "ios",
+    "react-native-component",
+    "native",
+    "mobile",
+    "input",
+    "mask",
+    "customizable",
+    "placeholder"
+  ],
+  "author": "Gopinath Sivalingam",
+  "license": "ISC"
+}
